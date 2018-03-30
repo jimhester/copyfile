@@ -1,0 +1,27 @@
+Timestamp                       Thread     Type        Activity             PID    
+2018-03-30 09:27:55.989398-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:55.993087-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:55.998023-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:56.001660-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:56.032422-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:56.061308-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:56.239686-0400 0x40dad3   Default     0x0                  53850  R: (libcopyfile.dylib) open on b: File exists
+2018-03-30 09:27:56.240053-0400 0x40dad3   Default     0x0                  53850  R: (libcopyfile.dylib) open on b: File exists
+2018-03-30 09:27:56.243611-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:56.272133-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:56.277218-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:56.555036-0400 0x40d696   Activity    0x800000000008b919   44951  com.apple.iCloudHelper: (Security) SecTrustEvaluateIfNecessary
+2018-03-30 09:27:56.556493-0400 0x40cf3c   Default     0x800000000008b919   313    trustd: [com.apple.securityd.policy] cert[2]: AnchorTrusted =(leaf)[force]> 0
+2018-03-30 09:27:56.557870-0400 0x40d696   Default     0x0                  44951  com.apple.iCloudHelper: (Security) [com.apple.securityd.security_exception] MacOS error: -67050
+2018-03-30 09:27:57.348593-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.352166-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.357258-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.360723-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.389568-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.417469-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.592472-0400 0x40dc88   Default     0x0                  53899  R: (libcopyfile.dylib) open on b: File exists
+2018-03-30 09:27:57.592777-0400 0x40dc88   Default     0x0                  53899  R: (libcopyfile.dylib) open on b: File exists
+2018-03-30 09:27:57.596352-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.628359-0400 0xd35      Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:57.632766-0400 0x40d220   Default     0x0                  381    taskgated: (Security) [com.apple.securityd.security_exception] MacOS error: -67062
+2018-03-30 09:27:58.31
